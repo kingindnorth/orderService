@@ -8,13 +8,15 @@
   },
   "author": "Prajjawal Tiwari",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.1",
     "express-session": "^1.18.1",
     "mongoose": "^8.7.2",
-    "nodemon": "^3.1.7",
     "swagger-tools": "^0.10.4",
     "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
